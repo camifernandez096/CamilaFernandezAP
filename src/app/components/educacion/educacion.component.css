@@ -7,13 +7,13 @@ div {
 h1, h3 {
     display: inline;
     }
- /*estilo nombre experiencia*/
-#nombreexperiencia {
+ /*estilo nombre de educacion*/
+#nombreeducacion {
     font-weight: bolder;
     color: hotpink;
     }
-    /*estilo experiencia laboral*/
-#experiencialaboral {
+    /*estilo de titulo educacion*/
+#educacion {
     font-weight: bolder;
     color: hotpink;
     background-color: grey;
