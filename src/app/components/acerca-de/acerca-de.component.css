@@ -2,13 +2,14 @@
     padding: 20px
 }
 div{
-    background-color: lightgray;
+    background-color: gray;
     text-align: center;
 }
 /*etiqueta nombre*/
 #nombre{
     font-weight: bolder;
     margin-top: 10%;
+    color: hotpink;
 }
 /*etiqueta titulo*/
 #titulo{
