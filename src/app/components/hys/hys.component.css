@@ -1,0 +1,11 @@
+.row{
+    background-color: grey;
+    padding: 20px;
+}
+/*estilo hys*/
+#hys{
+    font-weight: bolder;
+    color: hotpink;
+    background-color: grey;
+    text-align: center;
+}
