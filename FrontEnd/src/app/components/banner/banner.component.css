@@ -2,9 +2,3 @@ img{
     width: 100%;
     height: 300px;
  }
-/*estilo nombre banner*/
-#nombrebanner{
-    position: absolute;
-    top: 300px;
-    text-align: center;
-}
