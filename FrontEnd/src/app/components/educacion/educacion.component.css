@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div {
-    background-color: lightgray;
+    background-color:  #3b5b63 ;
 }
 h1, h3 {
     display: inline;
@@ -10,12 +10,12 @@ h1, h3 {
  /*estilo nombre de educacion*/
 #nombreeducacion {
     font-weight: bolder;
-    color: hotpink;
+    color:  #1c2c34 ;
     }
     /*estilo de titulo educacion*/
 #educacion {
     font-weight: bolder;
-    color: hotpink;
-    background-color: grey;
+    color:  #1c2c34 ;
+    background-color: #3b5b63;
     text-align: center;
     }
