@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div {
-    background-color: lightgray;
+    background-color: white
 }
 h1, h3 {
     display: inline;
@@ -10,12 +10,12 @@ h1, h3 {
  /*estilo nombre experiencia*/
 #nombreexperiencia {
     font-weight: bolder;
-    color: hotpink;
+    color: rgb(228, 59, 29);
     }
     /*estilo experiencia laboral*/
 #experiencialaboral {
     font-weight: bolder;
-    color: hotpink;
-    background-color: grey;
+    color: rgb(228, 59, 29);
+    background-color: white;
     text-align: center;
     }

@@ -1,6 +1,6 @@
 .row{
     padding: 20px;
-    background-color: lightgray;
+    background-color: white;
 }
 .contenedor{
     width: auto;
@@ -16,11 +16,11 @@ img{
 /*estilo nombre de proyecto*/
 #nombreproyectos{
     font-weight: bolder;
-    color: hotpink;
-    background-color: grey;
+    color: rgb(228, 59, 29);
+    background-color: white;
     text-align: center;
 }
 .img-proyecto{
-    box-shadow: 5px 5px 5px #ff1493;
+    box-shadow: 5px 5px 5px  #cc4c3f ;
     box-shadow: ejeX ejeY difumasion color;
 }

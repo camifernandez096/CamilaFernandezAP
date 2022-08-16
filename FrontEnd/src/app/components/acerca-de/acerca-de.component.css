@@ -2,7 +2,7 @@
     padding: 20px;
 }
 div{
-    background-color:  #3b5b63 ;
+    background-color: white ;
     text-align: center;
 }
 /*Estilo de la foto de perfil*/
@@ -11,9 +11,9 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px  #3b5b63 ;
+        box-shadow: 3px 3px 3px #f1735c ;
         left: 3%;
-        top:393px;
+        top:550px;
     }
 }
 @media (max-width: 575px){
@@ -21,7 +21,7 @@ div{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px  #3b5b63 ;
+        box-shadow: 3px 3px 3px #f1735c ;
         left: 33%;
         top:950px;
     }
