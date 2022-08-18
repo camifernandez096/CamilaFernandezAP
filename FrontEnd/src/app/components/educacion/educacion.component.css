@@ -10,13 +10,14 @@ h1, h3 {
  /*estilo nombre de educacion*/
 #nombreeducacion {
     font-weight: bolder;
-    color: rgb(228, 59, 29) ;
+    color: white ;
     text-align: center;
+    background-color:rgb(228, 59, 29) ;
     }
     /*estilo de titulo educacion*/
 #educacion {
     font-weight: bolder;
-    color:  rgb(228, 59, 29);
+    color: black);
     background-color: white;
     text-align: center;
     }
